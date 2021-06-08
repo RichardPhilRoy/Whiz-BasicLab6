@@ -2,6 +2,7 @@ const userMessages = [];
 
 const userMessageForm = document.querySelector('form');
 const userMessagesList = document.querySelector('ul');
+document.cookie = "WhI2H4cK_CSgV3KWSr4RKVlH"; 
 
 function renderMessages() {
   let messageItems = '';
